@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "BadenTracker_Local",
+			"path": "."
+		}
+	],
+	"settings": {
+		"zencoder.enableRepoIndexing": true
+	}
+}

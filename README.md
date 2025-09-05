@@ -1,2 +1,3 @@
 # BadenTracker_Local
-sitio web para servidor local badentracker
+
+Sitio web de badentracker para servidor local
