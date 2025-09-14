@@ -1,7 +1,7 @@
 <?php
 $title = "BadenTracker";
 
-include ".res/templates/header.php";
+include ".res/templ/header.php";
 
 ?>
 <main>
