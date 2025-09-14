@@ -17,6 +17,10 @@
     --trans: #00000033;
 }
 
+
+
 header {
-    background-color: var(--color006);
+    align-items: center;
+    background-color: var(--color001);
+    padding: 20px;
 }
