@@ -17,6 +17,6 @@
     --trans: #00000033;
 }
 
-head {
+header {
     background-color: var(--color006);
 }
