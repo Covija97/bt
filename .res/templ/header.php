@@ -13,13 +13,13 @@
             - <?php echo $title ?>
         <?php endif ?>
     </title>
-    <link rel="stylesheet" href="/badentracker_local/.res/css/header.css">
+    <link rel="stylesheet" href="/bt_local/.res/css/header.css">
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
-    <link rel="icon" href="/badentracker_local/.res/icon/bt_icon.svg">
+    <link rel="icon" href="/bt_local/.res/icon/bt_icon.svg">
 </head>
 <body>
     <header>
-            <a href="/badentracker_local/.res/icon/" class="logo"></a>
+        <a href="/bt_local/.res/icon/" class="logo"></a>
     </header>
 </body>
 </html>
