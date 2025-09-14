@@ -1,0 +1,22 @@
+:root {
+    --color001: #f5ecddff;
+    /* Beige cálido */
+    --color002: #253c4cff;
+    /* Azul grisáceo oscuro */
+    --color003: #7d5b3eff;
+    /* Marrón tierra */
+    --color004: #3c5a6eff;
+    /* Azul verdoso suave */
+    --color005: #a64e2aff;
+    /* Terracota intenso */
+    --color006: #e8b86bff;
+    /* Dorado pastel */
+    --color006D: #ba9356ff;
+    /* Dorado pastel oscuro */
+
+    --trans: #00000033;
+}
+
+head {
+    background-color: var(--color006);
+}
