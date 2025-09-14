@@ -14,7 +14,7 @@
 </head>
 <body>
     <header>
-        <a href="/bt/.res/icon/" class="logo">
+        <a href="/bt" class="logo">
             <h1>BadenTracker</h1>
         </a>
         
